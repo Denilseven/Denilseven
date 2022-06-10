@@ -1,4 +1,4 @@
-Hi!! I'm Denilseven.
+Hi! I'm Denilseven.
 - I’m interested in game development and stuff and currently getting better at C# (for Unity Engine).
 - You can reach me by sending a message to @denilseven on Twitter.
 
