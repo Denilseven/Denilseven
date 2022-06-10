@@ -1,6 +1,6 @@
-- Hi!! I'm @Denilseven.
-- I’m interested in game development and stuff, I'm currently learning C# (for Unity Engine).
-- You can reach me by sending a message to Denil7#4450 on Discord (It's my main communication app).
+Hi!! I'm @Denilseven.
+I’m interested in game development and stuff, I'm currently learning C# (for Unity Engine).
+You can reach me by sending a message to Denil7#4450 on Discord.
 
 <!---
 Denilseven/Denilseven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
