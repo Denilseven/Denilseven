@@ -1,24 +1,5 @@
 ### Hello there 👋
 
-I'm Denilson (Denilseven), a 17 years old passionate developer who's really into game-dev.
+I'm Denilson (Denilseven), a 17 y/o game dev from Brazil!
 
-> On an ongoing self-improvement journey! 🛩
-
-By the time being I'm working on two games, learning modal editing and actively improving my knowledge and overall programmer skills.
-
-If you want to know more about me you can visit my website at https://denilseven.github.io
-
-<!--
-**Denilseven/Denilseven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website: https://denilseven.github.io
